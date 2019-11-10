@@ -6,8 +6,8 @@
 - [Create button dynamically](https://stackoverflow.com/questions/15082432/how-to-create-button-dynamically-in-android)
 
 ## Matlab
-- [MATLAB程式設計：入門篇](https://mirlab.org/jang/books/matlabProgramming4beginner/)
-- [MATLAB程式設計：進階篇](https://mirlab.org/jang/books/matlabProgramming4guru/)
+- [MATLAB程式設計：入門篇](http://mirlab.org/jang/books/matlabProgramming4beginner/)
+- [MATLAB程式設計：進階篇](http://mirlab.org/jang/books/matlabProgramming4guru/)
 
 ## Ubuntu
 - [Install Ubuntu in Dual-Boot](https://www.tecmint.com/install-ubuntu-alongside-with-windows-dual-boot/)
