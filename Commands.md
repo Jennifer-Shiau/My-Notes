@@ -30,7 +30,7 @@ git checkout -b <branch_name>
 git branch
 git add .
 git status
-git commit -m "commit_message"
+git commit -m "commit message"
 git push --set-upstream origin <branch_name>
 ```
 
